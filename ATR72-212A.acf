@@ -190,7 +190,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 25876.060546875
-P _gear/1/_stat_def 0.903471231
+P _gear/1/_stat_def 0.903471410
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -224,7 +224,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 25876.060546875
-P _gear/2/_stat_def 0.903471231
+P _gear/2/_stat_def 0.903471410
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -19346,7 +19346,7 @@ P _part/86/_part_specs_invis 0
 P _part/86/_part_tex 0
 P _part/86/_part_the 0.0
 P _part/86/_part_x 6.889763355
-P _part/86/_part_y -2.836686134
+P _part/86/_part_y -2.836685896
 P _part/86/_part_z 42.224407196
 P _part/86/_patt_con 0
 P _part/86/_patt_prt 0
@@ -20816,7 +20816,7 @@ P _part/87/_part_specs_invis 0
 P _part/87/_part_tex 0
 P _part/87/_part_the 0.0
 P _part/87/_part_x -6.889763355
-P _part/87/_part_y -2.836686134
+P _part/87/_part_y -2.836685896
 P _part/87/_part_z 42.224407196
 P _part/87/_patt_con 0
 P _part/87/_patt_prt 0
@@ -27723,7 +27723,7 @@ P acf/_rudd1_lf 20.0
 P acf/_rudd1_max_sweep_rat 1.0
 P acf/_rudd1_rat1 1.0
 P acf/_rudd1_rat2 1.0
-P acf/_rudd1_rt 0.0
+P acf/_rudd1_rt 20.0
 P acf/_rudd1_v1 0.0
 P acf/_rudd1_v2 0.0
 P acf/_rudd2_cratR 0.0

@@ -156,7 +156,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 0.0
 P _gear/0/_scon 17969.486328125
-P _gear/0/_stat_def 0.216056004
+P _gear/0/_stat_def 0.216056064
 P _gear/0/_steerdeg_hispeed 0.0
 P _gear/0/_steerdeg_lospeed 0.0
 P _gear/0/_strut_comp 0.0
@@ -172,7 +172,7 @@ P _gear/1/_axiR 0.0
 P _gear/1/_cyc_time 5.0
 P _gear/1/_damp 2587.606201172
 P _gear/1/_eagle_claw_deg 0.0
-P _gear/1/_gear_brakes 0
+P _gear/1/_gear_brakes 1
 P _gear/1/_gear_can_retract 1
 P _gear/1/_gear_castors 0
 P _gear/1/_gear_def_empty 0.0
@@ -190,7 +190,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 25876.060546875
-P _gear/1/_stat_def 0.903471410
+P _gear/1/_stat_def 0.903471112
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -206,7 +206,7 @@ P _gear/2/_axiR 0.0
 P _gear/2/_cyc_time 5.0
 P _gear/2/_damp 2587.606201172
 P _gear/2/_eagle_claw_deg 0.0
-P _gear/2/_gear_brakes 0
+P _gear/2/_gear_brakes 1
 P _gear/2/_gear_can_retract 1
 P _gear/2/_gear_castors 0
 P _gear/2/_gear_def_empty 0.0
@@ -224,7 +224,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 25876.060546875
-P _gear/2/_stat_def 0.903471410
+P _gear/2/_stat_def 0.903471112
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -19346,7 +19346,7 @@ P _part/86/_part_specs_invis 0
 P _part/86/_part_tex 0
 P _part/86/_part_the 0.0
 P _part/86/_part_x 6.889763355
-P _part/86/_part_y -2.836685896
+P _part/86/_part_y -2.836686134
 P _part/86/_part_z 42.224407196
 P _part/86/_patt_con 0
 P _part/86/_patt_prt 0
@@ -20816,7 +20816,7 @@ P _part/87/_part_specs_invis 0
 P _part/87/_part_tex 0
 P _part/87/_part_the 0.0
 P _part/87/_part_x -6.889763355
-P _part/87/_part_y -2.836685896
+P _part/87/_part_y -2.836686134
 P _part/87/_part_z 42.224407196
 P _part/87/_patt_con 0
 P _part/87/_patt_prt 0
@@ -26972,8 +26972,8 @@ P acf/_esys_bus_bit_add/200 0
 P acf/_esys_bus_bit_add/201 0
 P acf/_esys_bus_bit_add/204 0
 P acf/_esys_bus_bit_add/215 0
-P acf/_esys_bus_bit_add/30 0
-P acf/_esys_bus_bit_add/31 0
+P acf/_esys_bus_bit_add/30 1
+P acf/_esys_bus_bit_add/31 2
 P acf/_esys_bus_bit_add/32 0
 P acf/_esys_bus_bit_add/33 0
 P acf/_esys_bus_bit_add/34 0
@@ -26983,7 +26983,7 @@ P acf/_esys_bus_bit_add/37 0
 P acf/_esys_bus_bit_add/38 0
 P acf/_esys_bus_bit_add/42 0
 P acf/_esys_bus_bit_add/48 0
-P acf/_esys_bus_bit_add/492 63
+P acf/_esys_bus_bit_add/492 3
 P acf/_esys_bus_bit_add/493 0
 P acf/_esys_bus_bit_add/51 0
 P acf/_esys_bus_bit_add/52 0
@@ -27014,8 +27014,8 @@ P acf/_esys_bus_bit_add/rel_auto_comp 0
 P acf/_esys_bus_bit_add/rel_auto_servos 0
 P acf/_esys_bus_bit_add/rel_avionics_fan 0
 P acf/_esys_bus_bit_add/rel_bad_fuel 0
-P acf/_esys_bus_bit_add/rel_bus0 0
-P acf/_esys_bus_bit_add/rel_bus1 0
+P acf/_esys_bus_bit_add/rel_bus0 1
+P acf/_esys_bus_bit_add/rel_bus1 2
 P acf/_esys_bus_bit_add/rel_bus2 0
 P acf/_esys_bus_bit_add/rel_bus3 0
 P acf/_esys_bus_bit_add/rel_bus4 0
@@ -27057,7 +27057,7 @@ P acf/_esys_bus_bit_add/rel_g_gia1 0
 P acf/_esys_bus_bit_add/rel_g_gia2 0
 P acf/_esys_bus_bit_add/rel_g_magmtr 0
 P acf/_esys_bus_bit_add/rel_gear_act 0
-P acf/_esys_bus_bit_add/rel_gen_esys 63
+P acf/_esys_bus_bit_add/rel_gen_esys 3
 P acf/_esys_bus_bit_add/rel_gps1 0
 P acf/_esys_bus_bit_add/rel_gps2 0
 P acf/_esys_bus_bit_add/rel_heatIN0 0
@@ -27874,7 +27874,7 @@ P acf/_spot_the/0 0.0
 P acf/_spot_the/1 0.0
 P acf/_spot_the/2 0.0
 P acf/_spot_the/count 3
-P acf/_sster_def_time 0.0
+P acf/_sster_def_time 2.0
 P acf/_stab_hdng 0.0
 P acf/_stab_roll 0.0
 P acf/_stab_trim_dn 0.0
@@ -27891,7 +27891,7 @@ P acf/_starter_engages_ignition 0
 P acf/_starter_is_air_driven 0
 P acf/_starter_max_rpm_rat 0.200000003
 P acf/_starter_torque_rat 0.300000012
-P acf/_steerdeg_castor 0.0
+P acf/_steerdeg_castor 60.0
 P acf/_stickshaker 0
 P acf/_sweep_extend_protect 0
 P acf/_sweep_m1 0.0

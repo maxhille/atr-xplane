@@ -156,7 +156,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 0.0
 P _gear/0/_scon 17969.486328125
-P _gear/0/_stat_def 0.216056019
+P _gear/0/_stat_def 0.216056004
 P _gear/0/_steerdeg_hispeed 0.0
 P _gear/0/_steerdeg_lospeed 0.0
 P _gear/0/_strut_comp 0.0
@@ -190,7 +190,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 25876.060546875
-P _gear/1/_stat_def 0.903471410
+P _gear/1/_stat_def 0.903471112
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -224,7 +224,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 25876.060546875
-P _gear/2/_stat_def 0.903471410
+P _gear/2/_stat_def 0.903471112
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -19346,7 +19346,7 @@ P _part/86/_part_specs_invis 0
 P _part/86/_part_tex 0
 P _part/86/_part_the 0.0
 P _part/86/_part_x 6.889763355
-P _part/86/_part_y -2.836685896
+P _part/86/_part_y -2.836686134
 P _part/86/_part_z 42.224407196
 P _part/86/_patt_con 0
 P _part/86/_patt_prt 0
@@ -20816,7 +20816,7 @@ P _part/87/_part_specs_invis 0
 P _part/87/_part_tex 0
 P _part/87/_part_the 0.0
 P _part/87/_part_x -6.889763355
-P _part/87/_part_y -2.836685896
+P _part/87/_part_y -2.836686134
 P _part/87/_part_z 42.224407196
 P _part/87/_patt_con 0
 P _part/87/_patt_prt 0
@@ -25009,15 +25009,15 @@ P acf/_Jyy_unitmass 0.0
 P acf/_Jzz_unitmass 0.0
 P acf/_Mmo 0.0
 P acf/_RSC_idlespeed_ENGN 300.0
-P acf/_RSC_maxgreen_ENGN 2000.0
+P acf/_RSC_maxgreen_ENGN 1200.0
 P acf/_RSC_mingov_ENGN 300.0
-P acf/_RSC_mingreen_ENGN 1000.0
-P acf/_RSC_redline_ENGN 3000.0
+P acf/_RSC_mingreen_ENGN 1100.0
+P acf/_RSC_redline_ENGN 1400.0
 P acf/_SFC_ROC 9.970000267
 P acf/_SFC_alt_hi_JET 0.0
-P acf/_SFC_alt_hi_PRP 0.0
+P acf/_SFC_alt_hi_PRP 25000.0
 P acf/_SFC_alt_lo_JET 0.0
-P acf/_SFC_alt_lo_PRP 0.0
+P acf/_SFC_alt_lo_PRP 10000.0
 P acf/_SFC_full_hi_JET 0.550000012
 P acf/_SFC_full_hi_PRP 0.439999998
 P acf/_SFC_full_lo_JET 0.550000012
@@ -25714,7 +25714,7 @@ P acf/_batt_power_rat/count 11
 P acf/_battery_watt_hr_max 1000.0
 P acf/_beacon_EQ 0
 P acf/_beacon_is_strobe 0
-P acf/_beta_pitch 0.0
+P acf/_beta_pitch 20.0
 P acf/_beta_prop_EQ 0
 P acf/_blown_flap_cl_inc 0.0
 P acf/_blown_flap_min_engag 0.0
@@ -27127,7 +27127,7 @@ P acf/_feather_on_engn_fail_EQ 0
 P acf/_feather_on_mixt_pull_EQ 0
 P acf/_feather_on_prop_pull_EQ 0
 P acf/_feather_prop_with_oilp 0
-P acf/_feathered_pitch 0.0
+P acf/_feathered_pitch 20.0
 P acf/_ff_rat_idle_JET 0.100000001
 P acf/_ff_rat_idle_PRP 0.100000001
 P acf/_file_writer_version 114100
@@ -27711,7 +27711,7 @@ P acf/_rock_max_vac 0.0
 P acf/_roll_co 0.025000000
 P acf/_roll_to_eng_spo1 0.0
 P acf/_roll_to_eng_spo2 0.0
-P acf/_rotor_mi_rat 1.0
+P acf/_rotor_mi_rat 0.500000000
 P acf/_rotor_trim_max_aft 0.0
 P acf/_rotor_trim_max_fwd 0.0
 P acf/_rrpm_trim_rpm_fast 0.0
@@ -27798,9 +27798,9 @@ P acf/_slat_with_Vind 0.0
 P acf/_slat_with_stall_EQ 0
 P acf/_slung_len 0.0
 P acf/_snd_N1 100.0
-P acf/_snd_kias 200.0
-P acf/_snd_rpm_eng 2500.0
-P acf/_snd_rpm_prp 2500.0
+P acf/_snd_kias 100.0
+P acf/_snd_rpm_eng 1200.0
+P acf/_snd_rpm_prp 1200.0
 P acf/_solar_cover_part 0.0
 P acf/_solar_eta 0.0
 P acf/_speedbrake_ext_time 1.0

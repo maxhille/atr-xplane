@@ -153,10 +153,10 @@ P _gear/0/_latN 0.0
 P _gear/0/_latR 0.0
 P _gear/0/_leg_len 1.640419960
 P _gear/0/_lonE 10.0
-P _gear/0/_lonN -114.351814270
+P _gear/0/_lonN -29.231964111
 P _gear/0/_lonR -115.0
 P _gear/0/_scon 17969.486328125
-P _gear/0/_stat_def 0.217866287
+P _gear/0/_stat_def 0.217866212
 P _gear/0/_steerdeg_hispeed 0.0
 P _gear/0/_steerdeg_lospeed 75.0
 P _gear/0/_strut_comp 0.0
@@ -183,14 +183,14 @@ P _gear/1/_gear_x 4.921259880
 P _gear/1/_gear_y -1.049868703
 P _gear/1/_gear_z 42.224407196
 P _gear/1/_latE 37.0
-P _gear/1/_latN -64.471084595
+P _gear/1/_latN 4.986717224
 P _gear/1/_latR -65.0
 P _gear/1/_leg_len 3.280839920
 P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 25876.060546875
-P _gear/1/_stat_def 0.902854621
+P _gear/1/_stat_def 0.902854502
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -217,14 +217,14 @@ P _gear/2/_gear_x -4.921259880
 P _gear/2/_gear_y -1.049868703
 P _gear/2/_gear_z 42.224407196
 P _gear/2/_latE -37.0
-P _gear/2/_latN 64.471084595
+P _gear/2/_latN -4.986717224
 P _gear/2/_latR 65.0
 P _gear/2/_leg_len 3.280839920
 P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 25876.060546875
-P _gear/2/_stat_def 0.902854621
+P _gear/2/_stat_def 0.902854502
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -245,7 +245,40 @@ P _gear/count 10
 P _lite/count 0
 P _lite_equip/_land_lite_off_on_retract_EQ 0
 P _lite_equip/_taxi_lite_off_on_retract_EQ 0
-P _obja/count 0
+P _obja/0/_obj_flags 0
+P _obja/0/_v10_att_file_stl import_ohpanel.obj
+P _obja/0/_v10_att_part -1
+P _obja/0/_v10_att_phi_ref 0.0
+P _obja/0/_v10_att_psi_ref 0.0
+P _obja/0/_v10_att_the_ref 0.0
+P _obja/0/_v10_att_x_acf_prt_ref 0.0
+P _obja/0/_v10_att_y_acf_prt_ref 0.0
+P _obja/0/_v10_att_z_acf_prt_ref 0.0
+P _obja/0/_v10_is_internal 66422160
+P _obja/0/_v10_steers_with_gear 0
+P _obja/1/_obj_flags 1
+P _obja/1/_v10_att_file_stl import_cockpit.obj
+P _obja/1/_v10_att_part -1
+P _obja/1/_v10_att_phi_ref 0.0
+P _obja/1/_v10_att_psi_ref 0.0
+P _obja/1/_v10_att_the_ref 0.0
+P _obja/1/_v10_att_x_acf_prt_ref 0.0
+P _obja/1/_v10_att_y_acf_prt_ref 0.0
+P _obja/1/_v10_att_z_acf_prt_ref 0.0
+P _obja/1/_v10_is_internal 66422160
+P _obja/1/_v10_steers_with_gear 0
+P _obja/2/_obj_flags 6149
+P _obja/2/_v10_att_file_stl cockpit.obj
+P _obja/2/_v10_att_part -1
+P _obja/2/_v10_att_phi_ref 0.0
+P _obja/2/_v10_att_psi_ref 0.0
+P _obja/2/_v10_att_the_ref 0.0
+P _obja/2/_v10_att_x_acf_prt_ref 0.0
+P _obja/2/_v10_att_y_acf_prt_ref 0.0
+P _obja/2/_v10_att_z_acf_prt_ref 0.0
+P _obja/2/_v10_is_internal 66422160
+P _obja/2/_v10_steers_with_gear 0
+P _obja/count 3
 P _panel_inst_3d 0
 P _part/0/_bot_s1 0.0
 P _part/0/_bot_s2 0.0
@@ -9052,7 +9085,7 @@ P _part/56/_part_phi 0.0
 P _part/56/_part_psi 0.0
 P _part/56/_part_rad 9.416009903
 P _part/56/_part_specs_eq 1
-P _part/56/_part_specs_invis 0
+P _part/56/_part_specs_invis 1
 P _part/56/_part_tex 0
 P _part/56/_part_the 0.0
 P _part/56/_part_x 0.0
@@ -19346,7 +19379,7 @@ P _part/86/_part_specs_invis 0
 P _part/86/_part_tex 0
 P _part/86/_part_the 0.0
 P _part/86/_part_x 6.895718575
-P _part/86/_part_y -2.767209291
+P _part/86/_part_y -2.767209530
 P _part/86/_part_z 42.224407196
 P _part/86/_patt_con 0
 P _part/86/_patt_prt 0
@@ -20816,7 +20849,7 @@ P _part/87/_part_specs_invis 0
 P _part/87/_part_tex 0
 P _part/87/_part_the 0.0
 P _part/87/_part_x -6.895718575
-P _part/87/_part_y -2.767209291
+P _part/87/_part_y -2.767209530
 P _part/87/_part_z 42.224407196
 P _part/87/_patt_con 0
 P _part/87/_patt_prt 0
@@ -27476,16 +27509,16 @@ P acf/_n1_power_curve1 2.0
 P acf/_n1_power_curve2 3.0
 P acf/_n2_power_curve 3.500000000
 P acf/_name ATR 72-500 (212A)
-P acf/_new_plot_XP3D_cock/0 0
+P acf/_new_plot_XP3D_cock/0 1
 P acf/_new_plot_XP3D_cock/1 1
-P acf/_new_plot_XP3D_cock/2 0
-P acf/_new_plot_XP3D_cock/3 0
-P acf/_new_plot_XP3D_cock/4 0
+P acf/_new_plot_XP3D_cock/2 1
+P acf/_new_plot_XP3D_cock/3 1
+P acf/_new_plot_XP3D_cock/4 1
 P acf/_new_plot_XP3D_cock/count 5
-P acf/_new_plot_outer_acf/0 0
-P acf/_new_plot_outer_acf/1 0
-P acf/_new_plot_outer_acf/2 0
-P acf/_new_plot_outer_acf/3 0
+P acf/_new_plot_outer_acf/0 1
+P acf/_new_plot_outer_acf/1 1
+P acf/_new_plot_outer_acf/2 1
+P acf/_new_plot_outer_acf/3 1
 P acf/_new_plot_outer_acf/4 1
 P acf/_new_plot_outer_acf/count 5
 P acf/_no_default_engine_fx 0
@@ -27578,9 +27611,9 @@ P acf/_part_descrip/92 Nosegear axle truck
 P acf/_part_descrip/93 Nosegear steering link arm2
 P acf/_part_descrip/94 Nosegear axle truck
 P acf/_part_descrip/count 95
-P acf/_pe_xyz/0 0.0
-P acf/_pe_xyz/1 0.0
-P acf/_pe_xyz/2 0.0
+P acf/_pe_xyz/0 -2.001312256
+P acf/_pe_xyz/1 3.740157366
+P acf/_pe_xyz/2 7.709973335
 P acf/_pe_xyz/count 3
 P acf/_phase_hdng_tvect_in_at_00 0
 P acf/_phase_hdng_tvect_in_at_90 0
@@ -27866,9 +27899,9 @@ P acf/_spot_psi/0 0.0
 P acf/_spot_psi/1 0.0
 P acf/_spot_psi/2 0.0
 P acf/_spot_psi/count 3
-P acf/_spot_size/0 0.0
-P acf/_spot_size/1 0.0
-P acf/_spot_size/2 0.0
+P acf/_spot_size/0 0.010000000
+P acf/_spot_size/1 0.010000000
+P acf/_spot_size/2 0.010000000
 P acf/_spot_size/count 3
 P acf/_spot_the/0 0.0
 P acf/_spot_the/1 0.0
@@ -28181,8 +28214,16 @@ PROPERTIES_END
 PANEL_2D_BEGIN
 PANEL_2D_END
 PANEL_3D_BEGIN
-eng_rnd_bat_amp engine_batt_AMPS.pn
-  POS 346.000000 318.000000
+EFIS_screen_2_HM blank_Medium_HM.png
+  POS 120.000000 1426.000000
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+EFIS_screen_2_HM blank_Medium_HM.png
+  POS 120.000000 1672.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0

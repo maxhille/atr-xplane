@@ -153,10 +153,10 @@ P _gear/0/_latN 0.0
 P _gear/0/_latR 0.0
 P _gear/0/_leg_len 1.640419960
 P _gear/0/_lonE 10.0
-P _gear/0/_lonN -69.102966309
+P _gear/0/_lonN -81.572174072
 P _gear/0/_lonR -115.0
 P _gear/0/_scon 17969.486328125
-P _gear/0/_stat_def 0.227209136
+P _gear/0/_stat_def 0.227209181
 P _gear/0/_steerdeg_hispeed 0.0
 P _gear/0/_steerdeg_lospeed 75.0
 P _gear/0/_strut_comp 0.0
@@ -167,7 +167,7 @@ P _gear/0/_strut_t2 0.252929688
 P _gear/0/_tire_radius 0.820209980
 P _gear/0/_tire_swidth 0.328083992
 P _gear/1/_axiE 0.0
-P _gear/1/_axiN -17.719064713
+P _gear/1/_axiN -20.512166977
 P _gear/1/_axiR -28.0
 P _gear/1/_cyc_time 5.0
 P _gear/1/_damp 2587.606201172
@@ -183,14 +183,14 @@ P _gear/1/_gear_x 3.937007904
 P _gear/1/_gear_y -1.082677245
 P _gear/1/_gear_z 39.895011902
 P _gear/1/_latE 37.0
-P _gear/1/_latN -14.258722305
+P _gear/1/_latN -22.338769913
 P _gear/1/_latR -44.0
 P _gear/1/_leg_len 4.921259880
 P _gear/1/_lonE -30.0
-P _gear/1/_lonN -11.015288353
+P _gear/1/_lonN -8.022677422
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 25876.060546875
-P _gear/1/_stat_def 0.899598897
+P _gear/1/_stat_def 0.899598837
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 3.500000000
@@ -201,7 +201,7 @@ P _gear/1/_strut_t2 0.252929688
 P _gear/1/_tire_radius 1.181102395
 P _gear/1/_tire_swidth 0.426509172
 P _gear/2/_axiE 0.0
-P _gear/2/_axiN 17.719064713
+P _gear/2/_axiN 20.512166977
 P _gear/2/_axiR 28.0
 P _gear/2/_cyc_time 5.0
 P _gear/2/_damp 2587.606201172
@@ -217,14 +217,14 @@ P _gear/2/_gear_x -3.937007904
 P _gear/2/_gear_y -1.082677245
 P _gear/2/_gear_z 39.895011902
 P _gear/2/_latE -37.0
-P _gear/2/_latN 14.258722305
+P _gear/2/_latN 22.338769913
 P _gear/2/_latR 44.0
 P _gear/2/_leg_len 4.921259880
 P _gear/2/_lonE -30.0
-P _gear/2/_lonN -11.015288353
+P _gear/2/_lonN -8.022677422
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 25876.060546875
-P _gear/2/_stat_def 0.899598897
+P _gear/2/_stat_def 0.899598837
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 3.400000095
@@ -28267,14 +28267,6 @@ EFIS_screen_2_HM blank_Medium_HM.png
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
-alt_GA_dig alt_GA_dig.png 2
-  POS 120.000000 1466.000000
-  DATAREF 
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
 eng_rnd_bat_amp engine_batt_AMPS.pn
   POS 265.000000 1494.000000
   DATAREF 
@@ -28342,7 +28334,7 @@ EFIS_horizon_CDIs el_horizon_CDI.png
   KEY_FRAME 1.000000 1.000000
 
 EFIS_vvi_vert el_vvi_vert.png
-  POS 208.333328 1673.333374
+  POS 208.000000 1673.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -28359,7 +28351,7 @@ EFIS_hsi_semiround el_hsi_semi_Circle.
   KEY_FRAME 1.000000 1.000000
 
 EFIS_altitude el_altitude.png
-  POS 188.500000 1673.500000
+  POS 188.000000 1673.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0

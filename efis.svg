@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2048"
+   height="2048"
+   viewBox="0 0 541.86665 541.86665"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="efis.svg"
+   inkscape:export-filename="/home/mh/src/github.com/maxhille/atr-xplane/objects/efis.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="63.999999"
+       height="63.999999"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,-84.666664,4.9001098)"
+       id="pattern6130">
+      <image
+         sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fabric.png"
+         xlink:href="textures/fabric.png"
+         width="64"
+         height="64"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeSpeed"
+         id="image4687"
+         x="0"
+         y="-1.1013412e-13" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1468.9279"
+     inkscape:cy="890.33201"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4655"
+       spacingx="4.2333332"
+       spacingy="4.2333332"
+       originx="7.3436625e-18"
+       originy="7.3436625e-18" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,244.86655)">
+    <image
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/efis.png"
+       xlink:href="textures/efis.png"
+       width="270.93332"
+       height="270.93332"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image922"
+       x="8.8817842e-16"
+       y="-244.86655" />
+    <image
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/glare.png"
+       xlink:href="textures/glare.png"
+       width="270.93332"
+       height="270.93332"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image933"
+       x="270.93332"
+       y="-244.86655" />
+    <image
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/panels.png"
+       xlink:href="textures/panels.png"
+       width="270.93332"
+       height="270.93332"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image995"
+       x="2.8421709e-14"
+       y="26.06678" />
+    <image
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/afcs-adu.png"
+       xlink:href="textures/afcs-adu.png"
+       width="67.73333"
+       height="135.46666"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1041"
+       x="275.16666"
+       y="30.300108" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="LIT" />
+</svg>

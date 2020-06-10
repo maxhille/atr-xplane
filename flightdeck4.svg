@@ -31,13 +31,13 @@
       <image
          sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fabric.png"
          xlink:href="textures/fabric.png"
-         y="-1.1013412e-13"
-         x="0"
-         id="image4687"
-         style="image-rendering:optimizeSpeed"
-         preserveAspectRatio="none"
+         width="64"
          height="64"
-         width="64" />
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeSpeed"
+         id="image4687"
+         x="0"
+         y="-1.1013412e-13" />
     </pattern>
   </defs>
   <sodipodi:namedview
@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="464.39523"
-     inkscape:cy="1963.2894"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="1833.9406"
+     inkscape:cy="1192.1808"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -69,6 +69,16 @@
        spacingy="4.2333332"
        originx="7.3436625e-18"
        originy="7.3436625e-18" />
+    <sodipodi:guide
+       position="275.16666,389.46665"
+       orientation="1,0"
+       id="guide1612"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="486.83332,275.16666"
+       orientation="0,1"
+       id="guide1614"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -90,23 +100,33 @@
     <image
        sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/pan_lt.png"
        xlink:href="textures/pan_lt.png"
-       width="270.93332"
-       height="270.93332"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image1628"
+       y="-244.86655"
        x="7.3436623e-18"
-       y="-244.86655" />
+       id="image1628"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="270.93332"
+       width="270.93332" />
     <image
        sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/thr-lt.png"
        xlink:href="textures/thr-lt.png"
-       width="135.46666"
+       y="-244.86655"
+       x="275.16666"
+       id="image1639"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
        height="135.46666"
+       width="135.46666" />
+    <image
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fuel-tat.png"
+       xlink:href="textures/fuel-tat.png"
+       width="67.73333"
+       height="67.73333"
        preserveAspectRatio="none"
        style="image-rendering:optimizeSpeed"
-       id="image1639"
+       id="image1609"
        x="275.16666"
-       y="-244.86655" />
+       y="-45.899891" />
   </g>
   <g
      inkscape:groupmode="layer"

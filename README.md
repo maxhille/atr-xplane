@@ -8,6 +8,9 @@ This project intends to build a good set of ATR aircraft and share it with the c
 - medium term: Aircraft is closer to study level by having realistic perfomance characteristics and systems
 - long term: Have a complete set including ATR 42 and the -600 series
 
+## Download latest release
+Go to the `releases` page of this Github repo and download from there
+
 ## Development set up
 1. Clone this repo
 2. link `ATR 72-500` into your X-Plane `Aircraft` folder

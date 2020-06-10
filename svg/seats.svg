@@ -16,12 +16,17 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="flightdeck3.svg"
-   inkscape:export-filename="/home/mh/src/github.com/maxhille/atr-xplane/objects/flightdeck3.png"
+   sodipodi:docname="seats.svg"
+   inkscape:export-filename="../ATR 72-500/objects/seats.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6130"
+       id="pattern6151"
+       patternTransform="matrix(0.25273631,0,0,0.28700563,-86.941286,-8.3738894)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="63.999999"
@@ -30,7 +35,7 @@
        id="pattern6130">
       <image
          sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fabric.png"
-         xlink:href="textures/fabric.png"
+         xlink:href="png/fabric.png"
          y="-1.1013412e-13"
          x="0"
          id="image4687"
@@ -47,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="1233.0535"
-     inkscape:cy="1354.811"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1056.454"
+     inkscape:cy="1018.2034"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -78,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,65 +93,34 @@
      id="layer1"
      transform="translate(0,244.86655)">
     <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_2.png"
-       xlink:href="textures/fd_2.png"
-       y="-244.86655"
-       x="7.3436623e-18"
-       id="image876"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="270.93332"
-       width="270.93332" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_4.png"
-       xlink:href="textures/fd_4.png"
-       width="135.46666"
-       height="135.46666"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image2721"
-       x="270.93332"
-       y="-244.86655" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_5.png"
-       xlink:href="textures/fd_5.png"
-       width="135.46666"
-       height="135.46666"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image2783"
-       x="406.39999"
-       y="-244.86655" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/carpet.png"
-       xlink:href="textures/carpet.png"
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/seat_1.png"
+       xlink:href="png/seat_1.png"
        width="270.93332"
        height="270.93332"
        preserveAspectRatio="none"
        style="image-rendering:optimizeSpeed"
-       id="image2829"
+       id="image876"
        x="8.8817842e-16"
-       y="26.066774" />
+       y="-244.86655" />
     <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/leather.png"
-       xlink:href="textures/leather.png"
-       y="26.066774"
-       x="270.93332"
-       id="image941"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/seat_2.png"
+       xlink:href="png/seat_2.png"
+       width="270.93332"
        height="270.93332"
-       width="270.93332" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/gear.png"
-       xlink:href="textures/gear.png"
-       width="67.73333"
-       height="135.46666"
        preserveAspectRatio="none"
        style="image-rendering:optimizeSpeed"
-       id="image896"
+       id="image938"
        x="270.93332"
-       y="-109.39989" />
+       y="-244.86655" />
+    <rect
+       style="fill:url(#pattern6151);fill-opacity:1;stroke:none;stroke-width:2.03585362;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4690"
+       width="270.93332"
+       height="270.93332"
+       x="8.8817842e-16"
+       y="26.06678"
+       ry="0"
+       rx="0" />
   </g>
   <g
      inkscape:groupmode="layer"

@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="flightdeck1.svg"
-   inkscape:export-filename="/home/mh/src/github.com/maxhille/atr-xplane/objects/seats.png"
+   inkscape:export-filename="../ATR 72-500/objects/seats.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -30,7 +30,7 @@
        id="pattern6130">
       <image
          sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fabric.png"
-         xlink:href="textures/fabric.png"
+         xlink:href="png/fabric.png"
          width="64"
          height="64"
          preserveAspectRatio="none"
@@ -89,7 +89,7 @@
      transform="translate(0,244.86655)">
     <image
        sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_1.png"
-       xlink:href="textures/fd_1.png"
+       xlink:href="png/fd_1.png"
        width="541.86664"
        height="541.86664"
        preserveAspectRatio="none"

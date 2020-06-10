@@ -16,8 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="efis.svg"
-   inkscape:export-filename="/home/mh/src/github.com/maxhille/atr-xplane/objects/efis.png"
+   sodipodi:docname="flightdeck3.svg"
+   inkscape:export-filename="../ATR 72-500/objects/flightdeck3.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -30,14 +30,14 @@
        id="pattern6130">
       <image
          sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fabric.png"
-         xlink:href="textures/fabric.png"
-         width="64"
-         height="64"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeSpeed"
-         id="image4687"
+         xlink:href="png/fabric.png"
+         y="-1.1013412e-13"
          x="0"
-         y="-1.1013412e-13" />
+         id="image4687"
+         style="image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="64"
+         width="64" />
     </pattern>
   </defs>
   <sodipodi:namedview
@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1468.9279"
-     inkscape:cy="890.33201"
+     inkscape:zoom="0.7"
+     inkscape:cx="1233.0535"
+     inkscape:cy="1354.811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,45 +88,65 @@
      id="layer1"
      transform="translate(0,244.86655)">
     <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/efis.png"
-       xlink:href="textures/efis.png"
-       width="270.93332"
-       height="270.93332"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_2.png"
+       xlink:href="png/fd_2.png"
+       y="-244.86655"
+       x="7.3436623e-18"
+       id="image876"
        style="image-rendering:optimizeSpeed"
-       id="image922"
-       x="8.8817842e-16"
-       y="-244.86655" />
+       preserveAspectRatio="none"
+       height="270.93332"
+       width="270.93332" />
     <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/glare.png"
-       xlink:href="textures/glare.png"
-       width="270.93332"
-       height="270.93332"
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_4.png"
+       xlink:href="png/fd_4.png"
+       width="135.46666"
+       height="135.46666"
        preserveAspectRatio="none"
        style="image-rendering:optimizeSpeed"
-       id="image933"
+       id="image2721"
        x="270.93332"
        y="-244.86655" />
     <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/panels.png"
-       xlink:href="textures/panels.png"
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_5.png"
+       xlink:href="png/fd_5.png"
+       width="135.46666"
+       height="135.46666"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image2783"
+       x="406.39999"
+       y="-244.86655" />
+    <image
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/carpet.png"
+       xlink:href="png/carpet.png"
        width="270.93332"
        height="270.93332"
        preserveAspectRatio="none"
        style="image-rendering:optimizeSpeed"
-       id="image995"
-       x="2.8421709e-14"
-       y="26.06678" />
+       id="image2829"
+       x="8.8817842e-16"
+       y="26.066774" />
     <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/afcs-adu.png"
-       xlink:href="textures/afcs-adu.png"
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/leather.png"
+       xlink:href="png/leather.png"
+       y="26.066774"
+       x="270.93332"
+       id="image941"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="270.93332"
+       width="270.93332" />
+    <image
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/gear.png"
+       xlink:href="png/gear.png"
        width="67.73333"
        height="135.46666"
        preserveAspectRatio="none"
        style="image-rendering:optimizeSpeed"
-       id="image1041"
-       x="275.16666"
-       y="30.300108" />
+       id="image896"
+       x="270.93332"
+       y="-109.39989" />
   </g>
   <g
      inkscape:groupmode="layer"

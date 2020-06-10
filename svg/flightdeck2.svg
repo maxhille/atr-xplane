@@ -16,12 +16,30 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="cockpit.svg"
-   inkscape:export-filename="/home/mh/src/github.com/maxhille/atr-xplane/objects/cockpit.png"
+   sodipodi:docname="flightdeck2.svg"
+   inkscape:export-filename="../ATR 72-500/objects/seats.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
-     id="defs2" />
+     id="defs2">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="63.999999"
+       height="63.999999"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,-84.666664,4.9001098)"
+       id="pattern6130">
+      <image
+         sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fabric.png"
+         xlink:href="png/fabric.png"
+         width="64"
+         height="64"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeSpeed"
+         id="image4687"
+         x="0"
+         y="-1.1013412e-13" />
+    </pattern>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="324.89345"
-     inkscape:cy="385.4557"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="187.51374"
+     inkscape:cy="1046.2924"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -70,59 +88,18 @@
      id="layer1"
      transform="translate(0,244.86655)">
     <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/panels.png"
-       xlink:href="textures/panels.png"
-       y="-244.86655"
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_3.png"
+       xlink:href="png/fd_3.png"
+       width="541.86664"
+       height="541.86664"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image2044"
        x="0"
-       id="image4700"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="270.93332"
-       width="270.93332" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/panel-sw.png"
-       xlink:href="textures/panel-sw.png"
-       y="26.066774"
-       x="2.8541044e-06"
-       id="image4762"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="67.73333"
-       width="135.46666" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/warning.png"
-       xlink:href="textures/warning.png"
-       width="67.73333"
-       height="33.866665"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image2311"
-       x="135.46666"
-       y="26.066774" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/ccas.png"
-       xlink:href="textures/ccas.png"
-       width="270.93332"
-       height="135.46666"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image2373"
-       x="0"
-       y="161.53345" />
+       y="-244.86653" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="LIT">
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/ohp-sw.png"
-       xlink:href="textures/ohp-sw.png"
-       y="338.66666"
-       x="2.8541044e-06"
-       id="image4860"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="67.73333"
-       width="135.46666" />
-  </g>
+     inkscape:label="LIT" />
 </svg>

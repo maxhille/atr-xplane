@@ -1,0 +1,5 @@
+*.acf~
+/cockpit_3d/
+/objects/
+*_prefs.txt
+/*icon11*.png

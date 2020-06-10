@@ -31,13 +31,13 @@
       <image
          sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fabric.png"
          xlink:href="textures/fabric.png"
-         y="-1.1013412e-13"
-         x="0"
-         id="image4687"
-         style="image-rendering:optimizeSpeed"
-         preserveAspectRatio="none"
+         width="64"
          height="64"
-         width="64" />
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeSpeed"
+         id="image4687"
+         x="0"
+         y="-1.1013412e-13" />
     </pattern>
   </defs>
   <sodipodi:namedview
@@ -48,8 +48,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="320.55424"
-     inkscape:cy="394.33476"
+     inkscape:cx="1486.6249"
+     inkscape:cy="386.23962"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -90,42 +90,52 @@
     <image
        sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_2.png"
        xlink:href="textures/fd_2.png"
-       y="-244.86655"
-       x="7.3436623e-18"
+       width="270.93332"
+       height="270.93332"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
        id="image876"
+       x="7.3436623e-18"
+       y="-244.86655" />
+    <image
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_4.png"
+       xlink:href="textures/fd_4.png"
+       y="-244.86655"
+       x="270.93332"
+       id="image2721"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="135.46666"
+       width="135.46666" />
+    <image
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_5.png"
+       xlink:href="textures/fd_5.png"
+       y="-244.86655"
+       x="406.39999"
+       id="image2783"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="135.46666"
+       width="135.46666" />
+    <image
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/carpet.png"
+       xlink:href="textures/carpet.png"
+       y="26.066774"
+       x="8.8817842e-16"
+       id="image2829"
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="270.93332"
        width="270.93332" />
     <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_4.png"
-       xlink:href="textures/fd_4.png"
-       width="135.46666"
-       height="135.46666"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image2721"
-       x="270.93332"
-       y="-244.86655" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/fd_5.png"
-       xlink:href="textures/fd_5.png"
-       width="135.46666"
-       height="135.46666"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image2783"
-       x="406.39999"
-       y="-244.86655" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/carpet.png"
-       xlink:href="textures/carpet.png"
+       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/leather.png"
+       xlink:href="textures/leather.png"
        width="270.93332"
        height="270.93332"
        preserveAspectRatio="none"
        style="image-rendering:optimizeSpeed"
-       id="image2829"
-       x="8.8817842e-16"
+       id="image941"
+       x="270.93332"
        y="26.066774" />
   </g>
   <g

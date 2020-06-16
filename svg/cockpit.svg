@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="324.89345"
-     inkscape:cy="385.4557"
+     inkscape:zoom="5.6"
+     inkscape:cx="526.2121"
+     inkscape:cy="626.02804"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="std"
      showgrid="true"
      units="px"
      showguides="true"
@@ -43,14 +43,23 @@
      inkscape:window-height="1376"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid4655"
-       spacingx="4.2333332"
-       spacingy="4.2333332"
+       spacingx="1.0583333"
+       spacingy="1.0583333"
        originx="7.3436625e-18"
-       originy="7.3436625e-18" />
+       originy="7.3436625e-18"
+       empspacing="4" />
+    <sodipodi:guide
+       position="93.13333,165.09999"
+       orientation="1,0"
+       id="guide835"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -60,69 +69,173 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,244.86655)">
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/panels.png"
-       xlink:href="png/panels.png"
-       y="-244.86655"
-       x="0"
-       id="image4700"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="270.93332"
-       width="270.93332" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/panel-sw.png"
-       xlink:href="png/panel-sw.png"
-       y="26.066774"
-       x="2.8541044e-06"
-       id="image4762"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="67.73333"
-       width="135.46666" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/warning.png"
-       xlink:href="png/warning.png"
-       width="67.73333"
-       height="33.866665"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image2311"
-       x="135.46666"
-       y="26.066774" />
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/ccas.png"
-       xlink:href="png/ccas.png"
-       width="270.93332"
-       height="135.46666"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image2373"
-       x="0"
-       y="161.53345" />
+     id="std"
+     inkscape:label="std"
+     style="display:inline">
+    <g
+       style="display:inline"
+       inkscape:label="import"
+       id="import"
+       sodipodi:insensitive="true">
+      <image
+         sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/svg/png/panels.png"
+         xlink:href="png/panels.png"
+         width="270.93332"
+         height="270.93332"
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeSpeed"
+         id="image866"
+         x="0"
+         y="-244.86655"
+         transform="translate(0,244.86655)"
+         sodipodi:insensitive="true" />
+      <image
+         sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/svg/png/panel-sw.png"
+         xlink:href="png/panel-sw.png"
+         width="135.46666"
+         height="67.73333"
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeSpeed"
+         id="image868"
+         x="2.8541044e-06"
+         y="26.066774"
+         transform="translate(0,244.86655)"
+         sodipodi:insensitive="true" />
+      <image
+         sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/svg/png/warning.png"
+         xlink:href="png/warning.png"
+         y="26.066774"
+         x="135.46666"
+         id="image870"
+         style="display:inline;image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="33.866665"
+         width="67.73333"
+         transform="translate(0,244.86655)"
+         sodipodi:insensitive="true" />
+      <image
+         sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/svg/png/ccas.png"
+         xlink:href="png/ccas.png"
+         y="161.53345"
+         x="0"
+         id="image872"
+         style="display:inline;image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="135.46666"
+         width="270.93332"
+         transform="translate(0,244.86655)"
+         sodipodi:insensitive="true" />
+      <image
+         sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/svg/png/ohp-sw.png"
+         xlink:href="png/ohp-sw.png"
+         width="135.46666"
+         height="67.73333"
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeSpeed"
+         id="image874"
+         x="2.8541044e-06"
+         y="93.80011"
+         transform="translate(0,244.86655)"
+         sodipodi:insensitive="true" />
+    </g>
+    <rect
+       style="fill:#282828;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect828"
+       width="16.933332"
+       height="16.933332"
+       x="139.7"
+       y="372.53333"
+       inkscape:label="button_bg" />
+    <g
+       id="g889"
+       inkscape:label="RUN"
+       transform="translate(20.108333,-25.400002)"
+       style="stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.18627451">
+      <text
+         id="text845"
+         y="387.25214"
+         x="150.59891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:0.03921569;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.18627451"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:0.03921569;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.18627451"
+           y="387.25214"
+           x="150.59891"
+           id="tspan843"
+           sodipodi:role="line">RUN</tspan></text>
+    </g>
+    <g
+       style="stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.18627451"
+       transform="translate(3.1750007,-16.933336)"
+       inkscape:label="OFF"
+       id="g897">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.18627451;paint-order:normal"
+         id="rect891"
+         width="14.816667"
+         height="6.3499999"
+         x="137.58333"
+         y="382.05832" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:0.03921569;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.18627451"
+         x="150.59891"
+         y="387.25214"
+         id="text895"><tspan
+           sodipodi:role="line"
+           id="tspan893"
+           x="150.59891"
+           y="387.25214"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:0.03921569;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.18627451">OFF</tspan></text>
+    </g>
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="LIT">
-    <image
-       sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/textures/ohp-sw.png"
-       xlink:href="png/ohp-sw.png"
-       y="338.66666"
-       x="2.8541044e-06"
-       id="image4860"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="67.73333"
-       width="135.46666" />
+     id="LIT"
+     inkscape:label="LIT"
+     style="display:inline"
+     transform="translate(3.1749999,-6.4953124e-6)">
+    <g
+       id="g864"
+       inkscape:label="RUN_LIT"
+       transform="translate(16.933334,-25.399996)">
+      <text
+         id="text845-8"
+         y="387.25214"
+         x="150.59891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#0af700;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#0af700;fill-opacity:1;stroke-width:0.26458332px"
+           y="387.25214"
+           x="150.59891"
+           id="tspan843-9"
+           sodipodi:role="line">RUN</tspan></text>
+    </g>
+    <g
+       transform="translate(1.303513e-6,-16.93333)"
+       inkscape:label="OFF_LIT"
+       id="g905">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect899"
+         width="14.816667"
+         height="6.3499999"
+         x="137.58333"
+         y="382.05832" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="150.59891"
+         y="387.25214"
+         id="text903"><tspan
+           sodipodi:role="line"
+           id="tspan901"
+           x="150.59891"
+           y="387.25214"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332px">OFF</tspan></text>
+    </g>
   </g>
 </svg>

@@ -51,13 +51,13 @@
       <image
          sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/svg/png/fabric.png"
          xlink:href="png/fabric.png"
-         width="64"
-         height="64"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeSpeed"
-         id="image4687"
+         y="-1.1013412e-13"
          x="0"
-         y="-1.1013412e-13" />
+         id="image4687"
+         style="image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="64"
+         width="64" />
     </pattern>
     <radialGradient
        inkscape:collect="always"
@@ -158,9 +158,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="908.75514"
-     inkscape:cy="786.29361"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="1038.6319"
+     inkscape:cy="580.38716"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -203,13 +203,13 @@
     <image
        sodipodi:absref="/home/mh/src/github.com/maxhille/atr-xplane/svg/png/ATR-wings.png"
        xlink:href="png/ATR-wings.png"
-       y="26.066786"
-       x="0"
-       id="image962"
-       style="display:inline;image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="270.93332"
        height="270.93332"
-       width="270.93332" />
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeSpeed"
+       id="image962"
+       x="0"
+       y="26.066786" />
     <g
        id="g2398"
        inkscape:label="propblur"
@@ -251,6 +251,13 @@
          d="M 330.42785,89.063116 289.64033,77.863417 c -0.69868,-1.784575 -6.16807,-6.57222 -8.02612,-11.750106 l 15.38818,-21.503803 14.47213,7.120916 21.41519,34.243308 z"
          style="display:inline;fill:url(#radialGradient1930-7-8-8-9-0-4-9-5);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.56645823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <rect
+       style="opacity:1;fill:#00a6c3;fill-opacity:0.12254902;stroke:none;stroke-width:2.56645823;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:normal"
+       id="rect843"
+       width="20.579756"
+       height="15.501635"
+       x="403.84424"
+       y="34.541439" />
   </g>
   <g
      inkscape:groupmode="layer"

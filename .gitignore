@@ -2,3 +2,5 @@
 *.swp
 /ext/
 /release
+ATR 72-500/plugins
+plugin/xpl/XPLM

@@ -2,6 +2,7 @@
 
 xpl := ATR\ 72-500/plugins/default/lin_x64/default.xpl
 xplwin := ATR\ 72-500/plugins/default/win_x64/default.xpl
+xplmac := ATR\ 72-500/plugins/default/mac_x64/default.xpl
 
 release: 
 	cp COPYING ATR\ 72-500/
@@ -39,7 +40,12 @@ $(xplwin): plugin/*.go plugin/xpl/*.go
 	CGO_ENABLED=1 \
 	CC=x86_64-w64-mingw32-gcc \
 	CXX=x86_64-w64-mingw32-g++ \
-	go build -x -buildmode c-shared -o $(xplwin) plugin/xpl/main.go
-
+	go build -x -buildmode c-shared -o $(xplwin) plugin/xpl/main.go \
+    GOOS=darwin \
+    GOARCH=amd64 \
+    CGO_ENABLED=1 \
+    CGO_CFLAGS="-I/Users/dzou/Downloads/SDK/CHeaders -DAPL=1 -DIBM=0 -DLIN=0 -DXPLM210=1 " \
+    CGO_LDFLAGS="-F/System/Library/Frameworks/ -F/Users/dzou/Downloads/SDK/Libraries/Mac -framework XPLM" \
+    go build -buildmode c-shared -o $(xplmac) plugin/xpl/main.go
 clean:
 	rm -r ATR\ 72-500/plugins

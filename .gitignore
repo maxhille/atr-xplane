@@ -2,5 +2,9 @@
 *.swp
 /ext/
 /release
-ATR 72-500/plugins
-plugin/xpl/XPLM
+
+# stuff comes from the xlua distribution. only want our scripts/ dir
+ATR 72-500/plugins/xlua/init.lua
+ATR 72-500/plugins/xlua/lin_x64
+ATR 72-500/plugins/xlua/mac_x64
+ATR 72-500/plugins/xlua/win_x64

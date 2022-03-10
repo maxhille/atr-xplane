@@ -22,12 +22,12 @@ Go to the `releases` page of this Github repo and download from there
 ## Building
 1. Export `obj`s via XPlane2Blender
 2. Export `png`s via Inkscape and `make tex`
-3. Tag release (eg `0.3`)
-4. `make release`
+3. Unzip offial XLua into the aircraft/plugins folder. XLua is not in this repo.
+4. `make`
 
 ## Credits
 ```
-(C) 2020 Maximilian Hille
+(C) 2020-2022 Maximilian Hille
 ```
 
 ```
